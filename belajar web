@@ -1,3 +1,10 @@
+<!DOCTYPE html>
 <html>
 <head>
-      <t
+      <title>penggunaan tag image</title>
+</head>
+<body>
+      <h1>Belajar Tag Gambar</h1>
+      <img src="koala.jpg" />
+</body>
+</html>
